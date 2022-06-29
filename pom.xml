@@ -189,7 +189,7 @@
 											<value>COVEREDRATIO</value>
 											<!-- Ajustar aqui los valores minimos, 0.85 por ejemplo para un 
 												85% de cobertura -->
-											<minimum>0.00</minimum>
+											<minimum>0.85</minimum>
 										</limit>
 									</limits>
 								</rule>
